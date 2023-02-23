@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+    background-image: linear-gradient(cyan, rgb(11, 223, 11))
+}
+input{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    margin-bottom: 4px;
+}
+button{
+    background: rgb(168, 52, 91);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    font-weight: bold;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+a{
+    color: rgb(204, 4, 4);
+}
+li{
+    margin-top: 5px;
+}
